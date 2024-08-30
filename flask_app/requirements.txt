@@ -18,3 +18,4 @@ typing_extensions==4.12.2
 virtualenv==20.26.3
 Werkzeug==3.0.3
 zipp==3.19.2
+gunicorn==21.2.0  # Add gunicorn here

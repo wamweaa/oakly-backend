@@ -19,3 +19,4 @@ virtualenv==20.26.3
 Werkzeug==3.0.3
 zipp==3.19.2
 gunicorn==21.2.0  # Add gunicorn here
+PyJWT==2.9.0
